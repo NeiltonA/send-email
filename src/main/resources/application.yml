@@ -1,0 +1,11 @@
+server:
+    port: 8080
+    servlet:
+        contextPath: /ms-email
+spring:
+    jackson:
+        property-naming-strategy: SNAKE_CASE
+info:
+    app:
+        name: '@project.artifactId@'
+        version: '@project.version@'
