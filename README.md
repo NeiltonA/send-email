@@ -26,7 +26,7 @@ mvn spring-boot:run
 * Pronto. A aplicação está disponível em `http://localhost:8080`
 
 # Swagger
- *http://localhost:8080/ms-email/swagger-ui.html
+ * http://localhost:8080/ms-email/swagger-ui.html
 
 # 🐋 Executar via [Docker](https://www.docker.com/) 
  * Com um arquivo Maven configurado corretamente, podemos criar um arquivo jar executável.
@@ -75,5 +75,5 @@ mvn spring-boot:run
    ```
    
 	
-## ✒️ Autor
-* Ney
+## ✒️ Autor 
+🤝 Ney
