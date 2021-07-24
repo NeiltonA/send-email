@@ -6,7 +6,7 @@
 * Primeiramente, faça o clone do repositório:
 
 ```
-    https://github.com/NeiltonA/recycle
+    https://github.com/NeiltonA/send-email.git
 ```
 * Feito isso, acesse o projeto:
 
