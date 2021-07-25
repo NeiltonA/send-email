@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>ms-send-email</groupId>
 	<artifactId>ms-send-email</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ms-send-email</name>
 	<description>Microserviço de envio de email - sendgrid</description>
 	<properties>

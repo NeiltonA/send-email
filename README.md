@@ -42,12 +42,12 @@ mvn spring-boot:run
 
 
  ```
-  docker build --tag=send-email:latest 
+  docker build --tag=send-email:latest . 
  ```
 
 * Por fim, podemos executar o contêiner a partir de nossa imagem:
 
-    docker run -p8887:8888 send-email:latest
+    docker run -p8080:8080 send-email:latest
 	
 
 * Se executarmos o contêiner no modo desanexado, podemos inspecionar seus detalhes, interrompê-lo e removê-lo com os seguintes comandos:
